@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-image: url(./images/cinema.jpg);
+background-size: cover;
+}
+
+.row {
+    width: 89%;
+    height: 600px;
+    /* background-color: gray; */
+    border: 2px yellow solid;
+    position: relative;
+    left: 90px;
+    top: 75px;
+}
+h1{
+    text-align: center;
+    background-color:rgba(128, 128, 128, 0.155);
+    color: rgb(232, 143, 26);
+}
+img {
+    width: 200px;
+    height: 230px;
+    margin-left: 50px;
+}
+
+.t1{
+    text-align: center;
+    font-size: larger;
+}
+.t2{
+    text-align: center;
+    margin-top: 9px;
+    
+}
+.r{
+    background-color: rgba(205, 244, 63, 0.516);
+    color: black;
+    border: 2px red solid;
+    border-radius: 50px;
+    width: 185px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 70;
+   
+}
+.c {
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    padding: 10px;
+}
+
+.c-1 {
+    background-color: rgba(128, 128, 128, 0.155);
+    
+
+}
+.c-2{
+    background-color: rgba(128, 128, 128, 0.155);
+    left: 350px;
+}
+.c-3{
+    background-color: rgba(128, 128, 128, 0.155);
+    left: 700px;
+}
+.c-4{
+    background-color: rgba(128, 128, 128, 0.155);
+    left: 1050px;
+}
+.r1{
+    margin-top: 33px;
+}
+.r2{
+    margin-top: 52px;
+}
+.r4{
+    margin-top: 51px;
+}
